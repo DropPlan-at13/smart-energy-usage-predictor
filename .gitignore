@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.joblib
+
+# Virtual environment
+venv/
+.env/
+
+# Data
+data/*.csv
+
+# IDE
+.vscode/
+.idea/
